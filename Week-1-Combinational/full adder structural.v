@@ -1,4 +1,5 @@
-/ 1. THE REUSABLE CHILD CHIP
+
+// 1. THE REUSABLE CHILD CHIP
 module half_adder (
     input wire a,
     input wire b,
